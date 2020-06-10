@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "dell inspiron2"
+    },
+    {
+      "id": 2,
+      "name": "Acer"
+    },
+    {
+      "name": "teste 1",
+      "id": 4
+    },
+    {
+      "name": "Prod teste reativo",
+      "id": 51
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Richart"
+    },
+    {
+      "firt_name": "outro usuário",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Ionic Blank
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  The world is your oyster.
+  <p>
+    If you get lost, the <a href="http://ionicframework.com/docs/v3">docs</a> will be your guide.
+  </p>
+  <button ion-button (click)="goToPage('Uma mensagem')">
+    Ir para Hello Page
+  </button>
+
+  <button ion-button (click)="goToAboutPage()" style="background-color: green;">
+    Sobre Nós
+  </button>
+
+  <button ion-button (click)="goToAboutPageAsRoot()" style="background-color: red;">
+    Sobre Nós
+  </button>
+
+  <button ion-button (click)="goToCreatePage()" color="dark">
+    Create Page
+  </button>
+
+  <h1>
+    Http Products
+  </h1>
+  <ion-list>
+    <button ion-item *ngFor="let product of products|async" (click)="goToSingle(product.id)">
+      {{product.name}}
+    </button>
+  </ion-list>
+
+</ion-content>

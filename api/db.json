@@ -1,0 +1,110 @@
+{
+  "products": [
+    {
+      "id": 1,
+<<<<<<< HEAD
+      "name": "dell inspiron2"
+=======
+      "name": "dell inspiron"
+>>>>>>> 8550c6b9bada28bbc481688482bb9527d8d5b508
+    },
+    {
+      "id": 2,
+      "name": "Acer"
+    },
+    {
+<<<<<<< HEAD
+=======
+      "id": 3,
+      "name": "Macbook Pro"
+    },
+    {
+>>>>>>> 8550c6b9bada28bbc481688482bb9527d8d5b508
+      "name": "teste 1",
+      "id": 4
+    },
+    {
+<<<<<<< HEAD
+      "name": "Prod teste reativo",
+      "id": 51
+=======
+      "name": "teste 2",
+      "id": 5
+    },
+    {
+      "name": "123",
+      "id": 30
+    },
+    {
+      "name": "123",
+      "id": 31
+    },
+    {
+      "name": "123",
+      "id": 35
+    },
+    {
+      "name": "123",
+      "id": 36
+    },
+    {
+      "name": "123",
+      "id": 37
+    },
+    {
+      "name": "123",
+      "id": 38
+    },
+    {
+      "name": "123",
+      "id": 39
+    },
+    {
+      "name": "123",
+      "id": 40
+    },
+    {
+      "name": "123",
+      "id": 41
+    },
+    {
+      "name": "123",
+      "id": 43
+    },
+    {
+      "name": "123",
+      "id": 44
+    },
+    {
+      "name": "123",
+      "id": 45
+    },
+    {
+      "name": "123",
+      "id": 46
+    },
+    {
+      "name": "123",
+      "id": 47
+    },
+    {
+      "name": "123",
+      "id": 48
+    },
+    {
+      "name": "novo prod",
+      "id": 49
+>>>>>>> 8550c6b9bada28bbc481688482bb9527d8d5b508
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Richart"
+    },
+    {
+      "firt_name": "outro usuário",
+      "id": 2
+    }
+  ]
+}
